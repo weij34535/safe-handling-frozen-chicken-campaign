@@ -15,4 +15,6 @@ Always cook frozen raw breaded chicken products to an internal temperature of at
 
 ## Common Misconceptions
 
-*(This section will be populated with bullet points addressing common myths.)*
+* Myth: The breading means the chicken is already cooked.
+* Myth: It's safe if I cook it in the microwave.
+* Myth: A little bit of pink is okay for chicken.
